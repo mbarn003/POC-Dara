@@ -1,0 +1,259 @@
+Synonym/Utterance,Value,Entity,Intent
+checking,checking,account_type,account_choice
+savings,savings,account_type,account_choice
+saving,savings,account_type,account_choice
+ways2save,ways2save,account_type,account_choice
+ways to save,ways2save,account_type,account_choice
+ways 2 save,ways2save,account_type,account_choice
+cashwise,cash wise,account_type,account_choice
+cash wise,cash wise,account_type,account_choice
+debit,debit card,card_type,card_choice
+credit card,credit card,card_type,card_choice
+cc,credit card,card_type,card_choice
+visa,visa,card_type,card_choice
+american express,american express,card_type,card_choice
+amex,american express,card_type,card_choice
+master card,master card,card_type,card_choice
+mastercard,master card,card_type,card_choice
+propel,propel,card_type,card_choice
+all,all,everything,list_choice
+everything,all,everything,list_choice
+none,none,everything,list_choice
+any,none,everything,list_choice
+anything,none,everything,list_choice
+nothing,none,everything,list_choice
+text,text,text_email,text_email
+text message,text,text_email,text_email
+texts,text,text_email,text_email
+cellphone,text,text_email,text_email
+cell phone,text,text_email,text_email
+sms,text,text_email,text_email
+phone,text,text_email,text_email
+email,email,text_email,text_email
+e mail,email,text_email,text_email
+emails,email,text_email,text_email
+e mails,email,text_email,text_email
+e-mail,email,text_email,text_email
+e-mails,email,text_email,text_email
+computer,email,text_email,text_email
+full,total,pay_amount,pay_amount
+total,total,pay_amount,pay_amount
+pay it off,total,pay_amount,pay_amount
+whole,total,pay_amount,pay_amount
+minimum,minimum,pay_amount,pay_amount
+min,minimum,pay_amount,pay_amount
+lost,lost,lost_stolen,lost_stolen
+lose,lost,lost_stolen,lost_stolen
+misplace,lost,lost_stolen,lost_stolen
+misplaced,lost,lost_stolen,lost_stolen
+can't find,lost,lost_stolen,lost_stolen
+unable to locate,lost,lost_stolen,lost_stolen
+can't locate,lost,lost_stolen,lost_stolen
+don't know,lost,lost_stolen,lost_stolen
+missing,lost,lost_stolen,lost_stolen
+disappear,lost,lost_stolen,lost_stolen
+disappeared,lost,lost_stolen,lost_stolen
+vanish,lost,lost_stolen,lost_stolen
+vanished,lost,lost_stolen,lost_stolen
+forgot,lost,lost_stolen,lost_stolen
+forget,lost,lost_stolen,lost_stolen
+leave,lost,lost_stolen,lost_stolen
+left,lost,lost_stolen,lost_stolen
+walked away without,lost,lost_stolen,lost_stolen
+dropped,lost,lost_stolen,lost_stolen
+cant find,lost,lost_stolen,lost_stolen
+cant locate,lost,lost_stolen,lost_stolen
+cannot be fund,lost,lost_stolen,lost_stolen
+can not be found,lost,lost_stolen,lost_stolen
+steal,stolen,lost_stolen,lost_stolen
+stolen,stolen,lost_stolen,lost_stolen
+stole ,stolen,lost_stolen,lost_stolen
+rob,stolen,lost_stolen,lost_stolen
+robbed,stolen,lost_stolen,lost_stolen
+mug,stolen,lost_stolen,lost_stolen
+mugged,stolen,lost_stolen,lost_stolen
+swipe,stolen,lost_stolen,lost_stolen
+swiped,stolen,lost_stolen,lost_stolen
+took,stolen,lost_stolen,lost_stolen
+take,stolen,lost_stolen,lost_stolen
+loot,stolen,lost_stolen,lost_stolen
+looted,stolen,lost_stolen,lost_stolen
+pilfer,stolen,lost_stolen,lost_stolen
+pilfered,stolen,lost_stolen,lost_stolen
+ransack,stolen,lost_stolen,lost_stolen
+ransacked,stolen,lost_stolen,lost_stolen
+burgle,stolen,lost_stolen,lost_stolen
+burgled,stolen,lost_stolen,lost_stolen
+burglarize,stolen,lost_stolen,lost_stolen
+burglarized,stolen,lost_stolen,lost_stolen
+lift,stolen,lost_stolen,lost_stolen
+lifted,stolen,lost_stolen,lost_stolen
+ran off with,stolen,lost_stolen,lost_stolen
+made off with,stolen,lost_stolen,lost_stolen
+walked off with,stolen,lost_stolen,lost_stolen
+larceny,stolen,lost_stolen,lost_stolen
+theft,stolen,lost_stolen,lost_stolen
+taken,stolen,lost_stolen,lost_stolen
+thief,stolen,lost_stolen,lost_stolen
+burglary,stolen,lost_stolen,lost_stolen
+not   ,not_recognize,not_recognize,list_choice
+but,not_recognize,not_recognize,list_choice
+all but,not_recognize,not_recognize,list_choice
+except,not_recognize,not_recognize,list_choice
+don't,not_recognize,not_recognize,list_choice
+can't,not_recognize,not_recognize,list_choice
+never,not_recognize,not_recognize,list_choice
+none,not_recognize,not_recognize,list_choice
+arenʻt,not_recognize,not_recognize,list_choice
+wasnʻt,not_recognize,not_recognize,list_choice
+unfamiliar,not_recognize,not_recognize,list_choice
+dont,not_recognize,not_recognize,list_choice
+cant,not_recognize,not_recognize,list_choice
+arent,not_recognize,not_recognize,list_choice
+wasnt,not_recognize,not_recognize,list_choice
+was not,not_recognize,not_recognize,list_choice
+are not,not_recognize,not_recognize,list_choice
+do not,not_recognize,not_recognize,list_choice
+can not,not_recognize,not_recognize,list_choice
+i donʻt shop at target,target,merchant,list_choice
+i never go to old navy,old navy,merchant,list_choice
+amazon purchases werenʻt me,amazon,merchant,list_choice
+i bought something from walmart,walmart,merchant,list_choice
+the amazon transaction was me,amazon,merchant,list_choice
+i donʻt even shop at old navy,old navy,merchant,list_choice
+i didnʻt buy anything from rei,rei,merchant,list_choice
+i never went to kmart,kmart,merchant,list_choice
+i don't recognize the cvs one,cvs,merchant,list_choice
+the walgreens one wasn't me,walgreens,merchant,list_choice
+the kmart purchase wasnʻt me,kmart,merchant,list_choice
+the target one is me,target,merchant,list_choice
+i recognize the kmart purchases,kmart,merchant,list_choice
+target was me,target,merchant,list_choice
+i made the purchase from walmart,walmart,merchant,list_choice
+i went to walmart that day,walmart,merchant,list_choice
+looks good i made the purchase from tjmaxx,tjmaxx,merchant,list_choice
+my backup savings account,backup,account_choice,account_choice
+go to my everyday checking account,everyday,account_choice,account_choice
+can i see my platinum savings account,platinum,account_choice,account_choice
+i need to see my portfolio checking account,portfolio,account_choice,account_choice
+the baby savings,baby,account_choice,account_choice
+iʻd like to see my secret savings account,secret,account_choice,account_choice
+from emergency savings acct,emergency,account_choice,account_choice
+use the main checking account,main,account_choice,account_choice
+take a look at my wifeʻs account,wifeʻs,account_choice,account_choice
+pull up the retirement savings account,retirement,account_choice,account_choice
+dumb question but how do I see how much I have in my main checking account with you guys,main,account_name,account_balance
+can you tell me how much I have on alt account now,alt,account_name,account_balance
+balance of emergency savings acct,emergency,account_name,account_balance
+i want to check my balance but not on my main account,main,account_name,account_balance
+Show my my balance on piggybank,piggybank,account_name,account_balance
+need to check balance of college savings account,college,account_name,account_balance
+would like to know how much is in my college savings account,college,account_name,account_balance
+would like to know balance of my husbandʻs account,husbandʻs,account_name,account_balance
+how much do i have in my retirement account,retirement,account_name,account_balance
+need to check balance of my vacation account,vacation,account_name,account_balance
+need to check the balance of my main savings account,main,account_name,account_balance
+what's the balance on my main savings account,main,account_name,account_balance
+show me balance of college savings acct please,college,account_name,account_balance
+Still something on acount B? havenʻt checked in awhile,B,account_name,account_balance
+my baby account balance,baby,account_name,account_balance
+How do I see my baby account balance,baby,account_name,account_balance
+How much left on my baby account,baby,account_name,account_balance
+iʻd like my husbandʻs account,husbandʻs,account_name,account_choice
+my main account,main,account_name,account_choice
+the vacation account,vacation,account_name,account_choice
+use my backup account,backup,account_name,account_choice
+from the college savings acct,college,account_name,account_choice
+from my new car savings acct,car,account_name,account_choice
+i'd like my wife's acct,wifeʻs,account_name,account_choice
+can i see my car savings account,car,account_name,account_choice
+I want to see my christms account,christms,account_name,account_choice
+please show my primary checking,primary,account_name,account_choice
+need to see secondary savings,secondary,account_name,account_choice
+can i see my fun account,fun,account_name,account_choice
+i wanna see my backup account,backup,account_name,account_choice
+show my checking account balance for vacation,vacation,account_name,account_choice
+i want to see my everyday checking,everyday,account_name,account_choice
+my everyday checking acct,everyday,account_name,account_choice
+show my everyday checking,everyday,account_name,account_choice
+can you make that portfolio checking instead,portfolio,account_name,account_choice
+portfolio checking account,portfolio,account_name,account_choice
+go to my preferred checking account,preferred,account_name,account_choice
+"preferred checking account, please",preferred,account_name,account_choice
+go to my platinum savings please,platinum,account_name,account_choice
+need to view my platinum savings,platinum,account_name,account_choice
+how much is in my emergency savings account,emergency,account_name,account_balance
+trying to figure out how much i still have on my backup account,backup,account_name,account_balance
+need to see my preferred checking,preferred,account_name,account_choice
+my clear access banking acct,clear access,account_name,account_choice
+whatʻs the balance on my wifeʻs account,wifeʻs,account_name,account_balance
+tell me the balance on vacation savings account,vacation,account_name,account_balance
+how much is there in the baby account,baby,account_name,account_balance
+how much money is there in my college savings account,college,account_name,account_balance
+what is available in my secret account,secret,account_name,account_balance
+balance in the savings account for my wife,savings,account_name,account_balance
+give me the balance in the account for vacation,vacation,account_name,account_balance
+how much have we saved in our retirement account,retirement,account_name,account_balance
+our new home account has how much in it,home,account_name,account_balance
+how much money does my wife have in her account,wife,account_name,account_balance
+show the vacation account,vacation,account_name,account_choice
+show my husbandʻs checking account,husbandʻs,account_name,account_choice
+look up the balance on my vacation account,vation,account_name,account_choice
+pull up the second checking account,secondary,account_name,account_choice
+look at the rainy day account,rainy day,account_name,account_choice
+misplaced my hotels.com rewards visa card,hotels.com,card_merchant,card_choice
+hotels.com rewards card,hotels.com reward,card_merchant,card_choice
+i lost my target plus card,target plus,card_merchant,replace_card
+i need a replacement for the amazon card,amazon,card_merchant,replace_card
+somebody stole my capital one business card,capital one,card_merchant,replace_card
+iʻve misplaced my walmart rewards card,walmart rewards,card_merchant,replace_card
+the united airlines credit card is nowhere to be found,united airlines,card_merchant,replace_card
+my credit card from amazon is missing,amazon,card_merchant,replace_card
+my credit card for capital one was stolen,capital one,card_merchant,replace_card
+some thief took my hm credit card,hm,card_merchant,replace_card
+it was my walmart credit card,walmart,card_merchant,card_choice
+my amazon card,amazon,card_merchant,card_choice
+the frontier credit card,frontier,card_merchant,card_choice
+frontier rewards,frontier,card_merchant,card_choice
+amazon card,amazon,card_merchant,card_choice
+iʻm talking about my walmart card,walmart,card_merchant,card_choice
+the home depot credit card,home depot,card_merchant,card_choice
+I didn't make that Macy's purchase,Macyʻs,merchant,list_choice
+I didn't buy anything from REI or Macy's,REI,merchant,list_choice
+i donʻt shop at target,target,merchant,list_choice
+i never go to old navy,old navy,merchant,list_choice
+amazon purchases werenʻt me,amazon,merchant,list_choice
+i bought something from walmart,walmart,merchant,list_choice
+the amazon transaction was me,amazon,merchant,list_choice
+i donʻt even shop at old navy,old navy,merchant,list_choice
+i didnʻt buy anything from rei,rei,merchant,list_choice
+i never went to kmart,kmart,merchant,list_choice
+i don't recognize the cvs one,cvs,merchant,list_choice
+the walgreens one wasn't me,walgreens,merchant,list_choice
+the kmart purchase wasnʻt me,kmart,merchant,list_choice
+the target one is me,target,merchant,list_choice
+i recognize the kmart purchases,kmart,merchant,list_choice
+target was me,target,merchant,list_choice
+i made the purchase from walmart,walmart,merchant,list_choice
+i went to walmart that day,walmart,merchant,list_choice
+looks good i made the purchase from tjmaxx,tjmaxx,merchant,list_choice
+I don't recognize that Shell Gas charge from March 17th,Shell Gas,merchant,list_choice
+"I did go to Ann Taylor,",Ann Taylor,merchant,list_choice
+I made the purchase from macyʻs,macyʻs,merchant,list_choice
+the transaction on amazon was me,amazon,merchant,list_choice
+i never bought anything from trader joeʻs,trader joeʻs,merchant,list_choice
+i donʻt shop at trader joeʻs,trader joeʻs,merchant,list_choice
+i purchased that from walmart yesterday,walmart,merchant,list_choice
+the purchase from macyʻs was me,macyʻs,merchant,list_choice
+i recognize the transaction from target,target,merchant,list_choice
+i did make the purchase from walmart,walmart,merchant,list_choice
+i was at jc penny yesterday so that was me,jc penny,merchant,list_choice
+i recognize the purchase at dickʻs sporting goods,dickʻs sporting goods,merchant,list_choice
+i made the purchase from kroger,froger,merchant,list_choice
+i bought something from belk,belk,merchant,list_choice
+i donʻt recognize this one from applebeeʻs,applebeeʻs,merchant,list_choice
+i never shop at walmart,walmart,merchant,list_choice
+i donʻt even shop at cardenaʻs,cardenaʻs,merchant,list_choice
+there isnʻt even a five guys near me,five guys,merchant,list_choice
+the rei purchase defintely wasnʻt me,rei,merchant,list_choice
+i donʻt buy things from amazon,amazon,merchant,list_choice
